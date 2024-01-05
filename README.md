@@ -15,7 +15,6 @@ Welcome to the Sooshi repository! Dive into a digital journey showcasing the int
     <li><a href="#design-philosophy">Design Philosophy</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#additional-notes">Additional notes</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -82,11 +81,14 @@ To run this project locally:
    npm run dev;
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#sooshi">back to top</a>)</p>
 
 ## Additional notes
 
 For enhanced user interaction and a seamless scroll experience, Sooshi integrates AOS (Animate on Scroll) animations, adding a layer of fluidity and dynamism to the platform's design and functionality.
+
+## Acknowledgements
+* JavaScript mastery https://github.com/adrianhajdin
 
 
 Thank you for exploring the Sooshi repository! For any questions or feedback, feel free to reach out. Happy coding! 🍣🖥️
