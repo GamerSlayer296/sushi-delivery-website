@@ -1,59 +1,92 @@
-Hi, I'm Taariq. An aspiring programming enthusiast making my way into the programming world, solving problems and learning every day. I have a keen eye for Software and web development and so spend my time mastering my trade and looking to land my first job in front-end development. Any help from the programming community throughout my journey would be much appreciated!
+# Sooshi: Experience the Flavors of Japan
 
-Take a look at my project:
-
-Sooshi: Experience the Flavors of Japan
 Welcome to the Sooshi repository! Dive into a digital journey showcasing the intricate flavors and aesthetics of Japanese cuisine. This README provides an overview of the project, its features, design principles, and how to get started.
 
-Table of Contents
-Overview
-Key Features
-Design Philosophy
-Getting Started
-Contributing
-License
-Overview
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#overview">Overview</a>
+    </li>
+    <li>
+      <a href="#key-features">Key Features</a>
+    </li>
+    <li><a href="#design-philosophy">Design Philosophy</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#additional-notes">Additional notes</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+
+## Overview
+![image](https://github.com/GamerSlayer296/sushi-delivery-website/assets/117532468/b4405de4-5da1-496a-88c4-259a4c2cdc49)
+
 Sooshi is a web platform meticulously crafted to offer users an immersive experience into the world of Japanese culinary artistry. With its elegant design, responsive layout, and captivating visuals, Sooshi aims to be a digital gateway for exploring and savoring the essence of Japanese cuisine.
 
-Technologies Used
-HTML
-CSS
-Google Fonts API
-Key Features
-Elegant Design: Leveraging custom fonts like "Playfair Display" and "Plus Jakarta Sans", Sooshi radiates sophistication and aligns with the cultural nuances of Japan.
+### Technologies Used
+* HTML
+* CSS
+* Google Fonts API
 
-Responsive Layout: Sooshi's design is optimized for various screen sizes, ensuring a seamless experience across desktops, tablets, and smartphones.
+## Key Features
+1. **Elegant Design**: Leveraging custom fonts like "Playfair Display" and "Plus Jakarta Sans", Sooshi radiates sophistication and aligns with the cultural nuances of Japan.
 
-Interactive Navigation: A dual-menu system enhances accessibility, catering to both desktop and mobile users.
+2. **Responsive Layout**: Sooshi's design is optimized for various screen sizes, ensuring a seamless experience across desktops, tablets, and smartphones.
 
-Engaging Visuals: The hero section, filled with captivating imagery, beckons users to delve deeper into the world of Japanese delicacies.
+3. **Interactive Navigation**: A dual-menu system enhances accessibility, catering to both desktop and mobile users.   
 
-Diverse Menu Display: The 'Popular Foods' section provides a curated selection of Japanese dishes, complete with detailed information and pricing.
+![image](https://github.com/GamerSlayer296/sushi-delivery-website/assets/117532468/2e6610b1-f38a-45bd-baef-1abd9b45e682) 
 
-User Testimonials: Incorporating testimonials fosters trust and credibility, encouraging new users to engage and explore.
+4. **Engaging Visuals**: The hero section, filled with captivating imagery, beckons users to delve deeper into the world of Japanese delicacies.
 
-Subscription Option: A straightforward subscription form lets users stay updated with exclusive offers and updates.
+5. **Diverse Menu Display**: The 'Popular Foods' section provides a curated selection of Japanese dishes, complete with detailed information and pricing.
+   
+   ![image](https://github.com/GamerSlayer296/sushi-delivery-website/assets/117532468/bfcab3e1-4eaa-4730-881e-7ea4d7ca8d55)
+   
+6. **User Testimonials**: Incorporating testimonials fosters trust and credibility, encouraging new users to engage and explore.
+   
+7. **Subscription Option**: A straightforward subscription form lets users stay updated with exclusive offers and updates.
+   
+   ![image](https://github.com/GamerSlayer296/sushi-delivery-website/assets/117532468/113a3f66-c6a2-4bc8-9679-4aa96a8b2a2e)
 
-Design Philosophy
-Color Palette: A harmonious blend of primary and secondary shades accentuates content and enhances readability.
 
-Typography: The thoughtful pairing of Playfair Display for headings and Plus Jakarta Sans for body text ensures a visually pleasing hierarchy and optimal legibility.
 
-Media Queries: Tailored media queries guarantee a consistent and engaging user experience across a spectrum of devices.
+## Design Philosophy
 
-Getting Started
+**Color Palette**: A harmonious blend of primary and secondary shades accentuates content and enhances readability.
+
+**Typography**: The thoughtful pairing of Playfair Display for headings and Plus Jakarta Sans for body text ensures a visually pleasing hierarchy and optimal legibility.
+
+**Media Queries**: Tailored media queries guarantee a consistent and engaging user experience across a spectrum of devices.
+
+## Getting Started
 To run this project locally:
 
-Clone the repository:
+1. Clone the repo
+   ```sh
+   git clone https://github.com/GamerSlayer296/sushi-delivery-website
+   ```
+2. navigate to the project directory
+   ```sh
+     cd sooshi
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+5. Open the web page from the terminal using NPM
+   ```sh
+   npm run dev;
+   ```
 
-bash
-Copy code
-git clone https://github.com/your-username/sooshi.git
-Navigate to the project directory:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-bash
-Copy code
-cd sooshi
-Open index.html in your preferred web browser.
+## Additional notes
+
+For enhanced user interaction and a seamless scroll experience, Sooshi integrates AOS (Animate on Scroll) animations, adding a layer of fluidity and dynamism to the platform's design and functionality.
+
 
 Thank you for exploring the Sooshi repository! For any questions or feedback, feel free to reach out. Happy coding! 🍣🖥️
