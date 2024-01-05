@@ -78,7 +78,7 @@ To run this project locally:
    ```
 5. Open the web page from the terminal using NPM
    ```sh
-   npm run dev;
+   npm run dev
    ```
 
 <p align="right">(<a href="#sooshi">back to top</a>)</p>
