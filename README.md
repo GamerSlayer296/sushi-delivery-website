@@ -1,5 +1,11 @@
 # Sooshi: Experience the Flavors of Japan
 
+
+
+https://github.com/GamerSlayer296/sushi-delivery-website/assets/117532468/a1193e8f-f68f-4a35-b1ee-89902417402c
+
+
+
 Welcome to the Sooshi repository! Dive into a digital journey showcasing the intricate flavors and aesthetics of Japanese cuisine. This README provides an overview of the project, its features, design principles, and how to get started.
 
 <!-- TABLE OF CONTENTS -->
